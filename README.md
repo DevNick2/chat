@@ -1,4 +1,5 @@
 *OBS:* Precisa do node versão 12
+
 *OBS:* WIP :: Estou usando este projeto para conhecimento das técnicas usadas tanto no server quanto no app
 
 ### Para rodar o projeto:
