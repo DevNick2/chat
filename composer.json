@@ -1,0 +1,21 @@
+{
+    "name": "Web Chat",
+    "require": {
+        "php": ">=7.2",
+        "phpmailer/phpmailer": "^6.0"
+    },
+    "authors": [{
+        "name": "Jean Nícolas",
+        "email": "contato@sithtech.com.br"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Chat\\": "Vendor/Chat/",
+            "App\\": "App/"
+        }
+    },
+
+    "config": {
+        "bin-dir": "bin"
+    }
+}
